@@ -1,15 +1,16 @@
 # Proyecto Final - Multimedia (UMSA)
+Oscar Felipe Valencia Sanchez
 
 Este repositorio contiene el desarrollo completo de los contenidos y algoritmos correspondientes a la materia de Multimedia, organizados en actividades grupales e individuales de procesamiento digital, modelado de procesos y entornos 3D.
 
 ---
 
-## 🚀 Enlaces del Proyecto
+## Enlace del Proyecto
 * **Repositorio de Código (GitHub):** `https://github.com/OscarLPB/proy-multimedia`
 
 ---
 
-## 📁 Estructura del Repositorio y Resumen de Contenidos
+## Estructura del Repositorio y Resumen de Contenidos
 
 ### 1. Actividades Grupales
 
@@ -28,7 +29,3 @@ Este repositorio contiene el desarrollo completo de los contenidos y algoritmos 
 * **a) Clasificación de Texturas:** Algoritmo de segmentación digital para diferenciar superficies (césped, cemento, tierra, asfalto) dentro de una imagen.
 * **b) Filtro de Suavizado:** Implementación manual de un filtro de promedio espacial utilizando una ventana de vecindad de $3\times3$ píxeles para la reducción de ruido visual.
 * **c) Cover de "La Vaca Lola":** Producción multimedia que fusiona el cover musical infantil adaptado al estilo de un artista reconocido con una animación sincronizada en ritmo y movimiento. *(Nota: Por restricciones de tamaño en GitHub para archivos mayores a 100MB, el paquete `.unitypackage` de 228MB se sustituyó por una captura de pantalla del entorno de desarrollo. La ejecución en vivo se realiza en la plataforma web).*
-
-* Oscar Felipe Valencia Sanchez
-* Milton Aguilar
-* Brayan Umpiri
